@@ -1,5 +1,5 @@
 import pytest
-from p2wsh_seg import (
+from ..p2wsh_seg import (
     generate_p2wsh_address,
     generate_key_pair,
     create_script,
