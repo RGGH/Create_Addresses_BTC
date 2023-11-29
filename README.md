@@ -1,4 +1,4 @@
-# Create_Addresses_BTC
+# Create Bitcoin Addresses - Python Code
 Python code to create Bitcoin addresses from Public keys
 
 see also : 
